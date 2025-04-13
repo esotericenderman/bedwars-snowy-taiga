@@ -5,6 +5,7 @@
 > A snowy-taiga-themed map for my [Bedwars plugin](https://github.com/EsotericEnderman/bedwars-plugin).
 
 ![Bedwars snowy taiga map](./assets/images/screenshot/map.png)
+![Iron golem on snowy taiga island](./assets/images/screenshot/golem.png)
 
 ## License
 
