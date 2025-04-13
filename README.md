@@ -15,4 +15,4 @@
 
 ## Topics
 
-minecraft minigames minigame minecraft-map minigame-plugin minecraft-map-making minecraft-world minecraft-worlds minecraft-maps
+<sup>[minecraft](https://github.com/topics/minecraft), [minigames](https://github.com/topics/minigames), [minigame](https://github.com/topics/minigame), [minecraft-map](https://github.com/topics/minecraft-map), [minigame-plugin](https://github.com/topics/minigame-plugin), [minecraft-map-making](https://github.com/topics/minecraft-map-making), [minecraft-world](https://github.com/topics/minecraft-world), [minecraft-worlds](https://github.com/topics/minecraft-worlds), [minecraft-maps](https://github.com/topics/minecraft-maps)</sup>
