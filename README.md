@@ -1,6 +1,6 @@
 # Bedwars Snowy Taiga
 
-[![Project Status: Completed](./assets/images/badges/status.svg)](./)
+[![Project status: completed](./assets/images/badges/status.svg)](./)
 
 > A snowy-taiga-themed map for my [Bedwars plugin](https://github.com/EsotericEnderman/bedwars-plugin).
 
