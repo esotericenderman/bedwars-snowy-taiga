@@ -2,7 +2,7 @@
 
 [![Project status: completed](./assets/images/badges/status.svg)](./)
 
-> A snowy-taiga-themed map for my [Bedwars plugin](https://github.com/EsotericEnderman/bedwars-plugin).
+> A snowy-taiga-themed map for my [Bedwars plugin](https://github.com/esotericenderman/bedwars).
 
 ![Bedwars snowy taiga map](./assets/images/screenshot/map.png)
 ![Iron golem on snowy taiga island](./assets/images/screenshot/golem.png)
