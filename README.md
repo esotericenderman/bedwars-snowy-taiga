@@ -1,4 +1,4 @@
-# Bedwars Snowy Taiga Map
+# Bedwars Snowy Taiga
 
 [![Project Status: Completed](./assets/images/badges/status.svg)](./)
 
@@ -10,7 +10,11 @@
 ## License
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
-  <a property="dct:title" rel="cc:attributionURL" href="https://github.com/EsotericEnderman/bedwars-snowy-taiga-map">Bedwars Snowy Taiga Map</a> &copy; 2024 by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://enderman.dev">Esoteric Enderman</a> is licensed under <a href="./LICENSE" target="_blank" rel="license noopener noreferrer" style="display: inline-block">CC BY-SA 4.0</a><a href="https://creativecommons.org/"><img style="height: 22px !important; margin-left: 3px; vertical-align: middle" src="./assets/images/icons/cc/cc.svg" alt="Creative Commons Icon" /><a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en"><img style="height: 22px !important; margin-left: 3px; vertical-align: middle" src="./assets/images/icons/cc/by.svg" alt="Creative Commons Attribution Icon" /></a><a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en"><img style="height: 22px !important; margin-left: 3px; vertical-align: middle" src="./assets/images/icons/cc/sa.svg" alt="Creative Commons ShareAlike Icon" /></a>.
+  &copy; 2024-2025 <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://enderman.dev">Esoteric Enderman</a>
+
+  <a property="dct:title" rel="cc:attributionURL" href="/">Bedwars Snowy Taiga</a> is licensed under <a href="./LICENSE" target="_blank" rel="license noopener noreferrer" style="display: inline-block">CC BY-SA 4.0</a>.
+
+  <a href="https://creativecommons.org/"><img style="height: 22px !important; margin-left: 3px; vertical-align: middle" src="./assets/images/icons/cc/cc.svg" alt="Creative Commons logo" /></a><a href="https://creativecommons.org/licenses/by-sa/4.0/"><img style="height: 22px !important; margin-left: 3px; vertical-align: middle" src="./assets/images/icons/cc/by.svg" alt="Creative Commons Attribution icon" /><img style="height: 22px !important; margin-left: 3px; vertical-align: middle" src="./assets/images/icons/cc/sa.svg" alt="Creative Commons ShareAlike icon" /></a>
 </p>
 
 ## Topics
