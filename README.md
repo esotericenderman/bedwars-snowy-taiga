@@ -4,6 +4,8 @@
 
 > A snowy-taiga-themed map for my [Bedwars plugin](https://github.com/EsotericEnderman/bedwars-plugin).
 
+![Bedwars snowy taiga map](./assets/images/screenshot/map.png)
+
 ## License
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
