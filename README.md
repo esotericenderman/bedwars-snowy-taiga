@@ -17,6 +17,10 @@
   <a href="https://creativecommons.org/"><img style="height: 22px !important; margin-left: 3px; vertical-align: middle" src="./assets/images/icons/cc/cc.svg" alt="Creative Commons logo" /></a><a href="https://creativecommons.org/licenses/by-sa/4.0/"><img style="height: 22px !important; margin-left: 3px; vertical-align: middle" src="./assets/images/icons/cc/by.svg" alt="Creative Commons Attribution icon" /><img style="height: 22px !important; margin-left: 3px; vertical-align: middle" src="./assets/images/icons/cc/sa.svg" alt="Creative Commons ShareAlike icon" /></a>
 </p>
 
+## Disclaimer
+
+<sup>NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.</sup>
+
 ## Topics
 
 <sup>[minecraft](https://github.com/topics/minecraft), [minigames](https://github.com/topics/minigames), [minigame](https://github.com/topics/minigame), [minecraft-map](https://github.com/topics/minecraft-map), [minigame-plugin](https://github.com/topics/minigame-plugin), [minecraft-map-making](https://github.com/topics/minecraft-map-making), [minecraft-world](https://github.com/topics/minecraft-world), [minecraft-worlds](https://github.com/topics/minecraft-worlds), [minecraft-maps](https://github.com/topics/minecraft-maps)</sup>
